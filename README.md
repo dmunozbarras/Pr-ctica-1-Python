@@ -1,1 +1,1 @@
-# Práctica-1-Python
+# Práctica 1 Python
